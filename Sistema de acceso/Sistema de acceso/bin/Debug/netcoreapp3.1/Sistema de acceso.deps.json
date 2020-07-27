@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Sistema de acceso/1.0.0": {
+        "runtime": {
+          "Sistema de acceso.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sistema de acceso/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
