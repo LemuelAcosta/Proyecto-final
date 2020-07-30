@@ -11,3 +11,16 @@ C:\Users\Zoraida\source\repos\Sistema de acceso\Sistema de acceso\obj\Debug\netc
 C:\Users\Zoraida\source\repos\Sistema de acceso\Sistema de acceso\obj\Debug\netcoreapp3.1\Sistema de acceso.dll
 C:\Users\Zoraida\source\repos\Sistema de acceso\Sistema de acceso\obj\Debug\netcoreapp3.1\Sistema de acceso.pdb
 C:\Users\Zoraida\source\repos\Sistema de acceso\Sistema de acceso\obj\Debug\netcoreapp3.1\Sistema de acceso.genruntimeconfig.cache
+C:\Users\Zoraida\source\repos\Votaciones\Sistema de acceso\Sistema de acceso\bin\Debug\netcoreapp3.1\Sistema de acceso.exe
+C:\Users\Zoraida\source\repos\Votaciones\Sistema de acceso\Sistema de acceso\bin\Debug\netcoreapp3.1\Sistema de acceso.deps.json
+C:\Users\Zoraida\source\repos\Votaciones\Sistema de acceso\Sistema de acceso\bin\Debug\netcoreapp3.1\Sistema de acceso.runtimeconfig.json
+C:\Users\Zoraida\source\repos\Votaciones\Sistema de acceso\Sistema de acceso\bin\Debug\netcoreapp3.1\Sistema de acceso.runtimeconfig.dev.json
+C:\Users\Zoraida\source\repos\Votaciones\Sistema de acceso\Sistema de acceso\bin\Debug\netcoreapp3.1\Sistema de acceso.dll
+C:\Users\Zoraida\source\repos\Votaciones\Sistema de acceso\Sistema de acceso\bin\Debug\netcoreapp3.1\Sistema de acceso.pdb
+C:\Users\Zoraida\source\repos\Votaciones\Sistema de acceso\Sistema de acceso\obj\Debug\netcoreapp3.1\Sistema de acceso.csprojAssemblyReference.cache
+C:\Users\Zoraida\source\repos\Votaciones\Sistema de acceso\Sistema de acceso\obj\Debug\netcoreapp3.1\Sistema de acceso.csproj.CoreCompileInputs.cache
+C:\Users\Zoraida\source\repos\Votaciones\Sistema de acceso\Sistema de acceso\obj\Debug\netcoreapp3.1\Sistema de acceso.AssemblyInfoInputs.cache
+C:\Users\Zoraida\source\repos\Votaciones\Sistema de acceso\Sistema de acceso\obj\Debug\netcoreapp3.1\Sistema de acceso.AssemblyInfo.cs
+C:\Users\Zoraida\source\repos\Votaciones\Sistema de acceso\Sistema de acceso\obj\Debug\netcoreapp3.1\Sistema de acceso.dll
+C:\Users\Zoraida\source\repos\Votaciones\Sistema de acceso\Sistema de acceso\obj\Debug\netcoreapp3.1\Sistema de acceso.pdb
+C:\Users\Zoraida\source\repos\Votaciones\Sistema de acceso\Sistema de acceso\obj\Debug\netcoreapp3.1\Sistema de acceso.genruntimeconfig.cache
