@@ -13,10 +13,11 @@ namespace Sistema_de_acceso
         public string rol { get; set; }
     }
     class Program
-    {
+    {//Funcion para autenticar los datos.
         public static void autenticacion()
         {
             Console.WriteLine("Sistema de acceso");
+            //Aqui estan los usuarios ya predeterminados, las llaves son el usuario y el valor de este Hashtable es la contrasena.
             Hashtable aunthentic = new Hashtable();
             //entrada de datos
             aunthentic.Add(40234533211, 10000);
@@ -64,6 +65,7 @@ namespace Sistema_de_acceso
             Console.WriteLine();
             auntenticado(user);
         }
+        //Funcion para registrarse.
         public static void registrarse()
         {
             long user;
@@ -102,6 +104,7 @@ namespace Sistema_de_acceso
                 autenticacion();
             }
         }
+        //Funcion para mostrar los datos despues de autenticado.
        public static void auntenticado(long usuario) 
        {
             //EMPLEADO 1
